@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm Hardik</h1>
-<h3 align="center">🎮 Roblox Developer | 6+ Years of Experience | Luau Scripter & Game Designer</h3>
+<h3 align="center">🧠 Roblox Scripter | 6+ Years of Experience | Luau Specialist</h3>
 
 <p align="center">
   <a href="https://www.roblox.com/users/5485892520/profile" target="_blank">
@@ -11,47 +11,41 @@
 
 ### 🧑‍💻 About Me
 
-I'm a passionate **Roblox developer** with over **6 years of experience** in game development and scripting on the platform.
+I'm an experienced **Roblox scripter** with over **6 years of hands-on programming** in **Luau**.  
+I focus entirely on **backend and gameplay systems** — writing clean, optimized code to power engaging Roblox games.
 
 I specialize in:
-- 🧠 **Luau scripting** for gameplay systems, UI, and tools  
-- 🏗️ **Building immersive environments** in Roblox Studio  
-- 🔧 **Performance optimization** across devices  
-- 🤝 **Team collaboration** using Git and modular architecture
-
-I love creating engaging gameplay mechanics and memorable player experiences within the Roblox ecosystem.
+- 🔧 **Gameplay mechanics** (combat, abilities, movement)
+- 💾 **Data systems** (DataStore, leaderboards, saving/loading)
+- 📦 **Modular scripting** with frameworks like Knit
+- 🔄 **Client-server communication** (RemoteEvents, RemoteFunctions)
+- 🧪 **Debugging and optimization** for performance
 
 ---
 
-### 🛠️ Tools & Skills
+### 🛠️ Skills & Tools
 
 - **Languages**: Luau (Roblox Lua), Lua  
-- **Platforms**: Roblox Studio, Rojo, VS Code  
-- **Game Systems**: Custom Cameras, Combat, UI, DataStore, Leaderboards  
-- **Frameworks**: Knit, ProfileService, Rodux, Promises  
-- **Extras**: Blender (basic modeling), Git, GFX
+- **Roblox APIs**: Players, ReplicatedStorage, TweenService, ContextActionService, etc.  
+- **Frameworks**: Knit, ProfileService, Promises, Rodux  
+- **Tools**: Roblox Studio, Rojo, Git, VS Code  
+- **Version Control**: GitHub for team-based scripting
 
 ---
 
-### 📌 Projects & Portfolio
+### 📌 Projects & Code
 
-Public project repositories are coming soon!  
-I’m currently organizing and preparing:
-- 🎯 Reusable Roblox modules  
-- 📷 Cinematic camera intro systems  
-- ⚔️ Combat and ability frameworks  
-- 📊 UI tools and data managers  
+I'm currently working on releasing open-source Roblox scripting projects, including:
+- ⚔️ Combat systems
+- 📊 Stat and XP systems
+- 🎮 Input handlers and camera controllers
+- 💬 Dialogue and quest frameworks
 
-Stay tuned!
+These will be available here soon — follow me to stay updated!
 
 ---
 
-### 🤝 Let’s Connect
-
-I’m open to:
-- 💼 Freelance scripting work  
-- 🎮 Game team collaborations  
-- 🧑‍🏫 Mentoring new developers  
+### 🤝 Let's Connect
 
 📬 **Contact Me**:  
 - Discord: `deadrailsplayer0163`  
@@ -60,12 +54,12 @@ I’m open to:
 
 ---
 
-### 🌱 Goals for 2025
+### 🌱 2025 Goals
 
-- Release open-source Roblox dev modules  
-- Write tutorials for new Luau developers  
-- Build a game framework for teams  
+- Release high-quality open-source Roblox scripts  
+- Create tutorials to help newer scripters learn Luau  
+- Collaborate on advanced scripting projects with teams
 
 ---
 
-> *“Build once. Play forever.”*
+> *“Gameplay starts with code — and I write the code that makes it real.”*
