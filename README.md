@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm Hardik</h1>
-<h3 align="center">🧠 Roblox Scripter | 6+ Years of Experience | Luau Specialist</h3>
+<h3 align="center">🧠 Roblox Scripter | 3+ Years of Experience | Luau Specialist</h3>
 
 <p align="center">
   <a href="https://www.roblox.com/users/5485892520/profile" target="_blank">
