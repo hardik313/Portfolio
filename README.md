@@ -11,7 +11,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm an experienced **Roblox scripter** with over **6 years of hands-on programming** in **Luau**.  
+I'm an experienced **Roblox scripter** with over **3 years of hands-on programming** in **Luau**.  
 I focus entirely on **game scripting and logic systems** — writing clean, efficient code to bring gameplay to life on the Roblox platform.
 
 ---
