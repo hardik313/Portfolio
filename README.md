@@ -12,36 +12,23 @@
 ### 🧑‍💻 About Me
 
 I'm an experienced **Roblox scripter** with over **6 years of hands-on programming** in **Luau**.  
-I focus entirely on **backend and gameplay systems** — writing clean, optimized code to power engaging Roblox games.
-
-I specialize in:
-- 🔧 **Gameplay mechanics** (combat, abilities, movement)
-- 💾 **Data systems** (DataStore, leaderboards, saving/loading)
-- 📦 **Modular scripting** with frameworks like Knit
-- 🔄 **Client-server communication** (RemoteEvents, RemoteFunctions)
-- 🧪 **Debugging and optimization** for performance
+I focus entirely on **game scripting and logic systems** — writing clean, efficient code to bring gameplay to life on the Roblox platform.
 
 ---
 
 ### 🛠️ Skills & Tools
 
 - **Languages**: Luau (Roblox Lua), Lua  
-- **Roblox APIs**: Players, ReplicatedStorage, TweenService, ContextActionService, etc.  
-- **Frameworks**: Knit, ProfileService, Promises, Rodux  
-- **Tools**: Roblox Studio, Rojo, Git, VS Code  
-- **Version Control**: GitHub for team-based scripting
+- **Roblox APIs**: Players, TweenService, ContextActionService, RunService, etc.  
+- **Tools**: Roblox Studio, Rojo, VS Code  
+- **Version Control**: Git & GitHub
 
 ---
 
 ### 📌 Projects & Code
 
-I'm currently working on releasing open-source Roblox scripting projects, including:
-- ⚔️ Combat systems
-- 📊 Stat and XP systems
-- 🎮 Input handlers and camera controllers
-- 💬 Dialogue and quest frameworks
-
-These will be available here soon — follow me to stay updated!
+I'm currently working on sharing open-source Roblox scripting content.  
+Repositories will be added soon — follow me to stay updated!
 
 ---
 
@@ -56,9 +43,9 @@ These will be available here soon — follow me to stay updated!
 
 ### 🌱 2025 Goals
 
-- Release high-quality open-source Roblox scripts  
-- Create tutorials to help newer scripters learn Luau  
-- Collaborate on advanced scripting projects with teams
+- Release clean, open-source Roblox scripts  
+- Help new scripters learn Luau through real examples  
+- Collaborate with other developers on script-based projects
 
 ---
 
