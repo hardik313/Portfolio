@@ -27,8 +27,7 @@ I focus entirely on **game scripting and logic systems** — writing clean, effi
 
 ### 📌 Projects & Code
 
-I'm currently working on sharing open-source Roblox scripting content.  
-Repositories will be added soon — follow me to stay updated!
+M1
 
 ---
 
